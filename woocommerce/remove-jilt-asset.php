@@ -1,4 +1,4 @@
-/* Prevents loading of admin-ajax requests on non WC pages. For edd see https://gist.github.com/jonathanpike/43dd9ce7a1b4cd0bea7407424f6edc7e */
+// Prevents loading of admin-ajax requests on non WC pages. For edd see https://gist.github.com/jonathanpike/43dd9ce7a1b4cd0bea7407424f6edc7e
 
 add_action( 'wp_print_scripts', function() {
 
