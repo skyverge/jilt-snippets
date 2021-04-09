@@ -2,7 +2,7 @@
 
 /**
  * Force individual use for unique discount codes created by Jilt
- * http://help.jilt.com/en/articles/4283033-how-do-i-create-a-unique-discount-code
+ * https://help.jilt.com/en/articles/5026072-how-to-force-individual-use-coupons
  * 
  */
 
